@@ -1,8 +1,4 @@
 
-Calculadora CIentífica feita em C, possuindo 24 operações
-
-
-
 #include <stdio.h>
 #include <math.h> 
 
